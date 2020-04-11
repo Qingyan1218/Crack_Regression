@@ -1,2 +1,2 @@
 # Crack_Regression
-Using Pytorch， TensorFlow, MXNet to regress the crack data
+使用Pytorch、TensorFlow、MXNet分别对同一份数据文件进行回归，该数据文件包含了50000个钢筋混凝土裂缝计算的数据。
